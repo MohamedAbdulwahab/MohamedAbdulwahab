@@ -7,7 +7,6 @@
 <p align="left"> - 👋 Hi, I’m @MohamedAbdulwahab! </p>
 <p align="left"> - 👀 I’m interested in Software Engineering and Web Development. </p>
 <p align="left"> - 🌱 I’m currently on a journey to become a Full-Stack Software Engineer. </p>
-<p align="left"> - 💞️ I’m looking to collaborate on ... </p>
 <p align="left"> - 📫 Feel free to contact me at <a href="https://www.linkedin.com/in/iammohamedabdulwahab/">LinkedIn</a></p>
 
   
