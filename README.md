@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=MohamedAbdulwahab&theme=dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=MohamedAbdulwahab&theme="/>
 </p>
 
 
