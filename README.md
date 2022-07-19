@@ -2,6 +2,10 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=MohamedAbdulwahab&theme=dark"/>
 </p>
 
+<p align="center">
+  <img src="https://www.codewars.com/users/Mabdulwahab/badges/large"/>
+</p>
+
 
 <p align="left"> </p>
 <p align="left"> - 👋 Hi, I’m @MohamedAbdulwahab! </p>
